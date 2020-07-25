@@ -1,0 +1,55 @@
+body{
+    font: inherit;
+}
+.a{
+    background: gray;
+}
+.cv {
+    background: white;
+    width: 900px;
+    margin-left: 215px;
+    margin-top: 10px;
+}
+p.ab{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h5.dam
+{
+    font-weight: bold;
+}
+.tn{
+    border-bottom:  solid black;
+}
+p.ha2{
+    padding-top: 10px;
+}
+.nd {
+    margin-top: 25px;
+}
+.kn{
+    margin-top: 10px;
+}
+.progress {
+    margin-top: -15px;
+    height: 13px!important;
+}
+.lk{
+    margin-top: 10px;
+}
+.progress-bar {
+    height: 13px!important;
+}
+span.minh1{
+    font-weight: bold;
+}
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+img{
+    width: 152px;
+    margin-left: -40px;
+    margin-top: 15px;
+}
